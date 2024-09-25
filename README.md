@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otales&label=Profile%20views&color=0e75b6&style=flat" alt="otales" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=otales" alt="otales" /></a> </p>
 
 - 🔭 Iroitm atualmente a trabalhar em [Logzz](https://github.com/LogzzDev)
-
-- 👯 I’m quer colaborar em **Braip,Coinzz,Chatzz,Logzz**
 
 <h3 align="esquerda">Conecte-se comigo:</h3>
 <p align="esquerda">
